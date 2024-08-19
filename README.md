@@ -19,7 +19,7 @@ Welcome to iTask! iTask is a sleek and intuitive to-do-list application designed
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/iTask.git
+    git clone https://github.com/ansmaqsood/iTask.git
     ```
 2. **Install dependencies**:
     ```bash
@@ -34,7 +34,6 @@ Welcome to iTask! iTask is a sleek and intuitive to-do-list application designed
 ## Contributing
 
 We welcome contributions! If you have suggestions, bug reports, or would like to contribute code, please submit an issue or pull request.
-
 
 ---
 
